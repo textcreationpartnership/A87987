@@ -1,0 +1,229 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A letter from the synod of Zeland, to the commissioners of the Generall Assembly of the Kirk of Scotland: vvritten by them in Latin, and now faithfully translated into English: expressing, 1. Their fellow-feeling of the present condition of the Kirks of Ireland and England, and exciting us to the like. 2. Their respects and affection to the Kirk of Scotland. 3. Their zeale to the Reformation of the Kirk of England, in government and ceremonies, and to the preservation of religion there, against the pride of Popery at this time. 4. And their desire of Unity in Religion, and the Kirk-government in his Majesties Dominions. July 18. 1643. Imprimatur. John White.</title>
+            <author>Gereformeerde Kerk in de Nederlanden. Synode van Zeeland.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1643</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 18 KB of XML-encoded text transcribed from 7 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A87987</idno>
+            <idno type="STC">Wing L1542</idno>
+            <idno type="STC">Thomason E61_5</idno>
+            <idno type="EEBO-CITATION">99859225</idno>
+            <idno type="PROQUEST">99859225</idno>
+            <idno type="VID">155335</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A87987)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 155335)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 11:E61[5])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A letter from the synod of Zeland, to the commissioners of the Generall Assembly of the Kirk of Scotland: vvritten by them in Latin, and now faithfully translated into English: expressing, 1. Their fellow-feeling of the present condition of the Kirks of Ireland and England, and exciting us to the like. 2. Their respects and affection to the Kirk of Scotland. 3. Their zeale to the Reformation of the Kirk of England, in government and ceremonies, and to the preservation of religion there, against the pride of Popery at this time. 4. And their desire of Unity in Religion, and the Kirk-government in his Majesties Dominions. July 18. 1643. Imprimatur. John White.</title>
+                  <author>Gereformeerde Kerk in de Nederlanden. Synode van Zeeland.</author>
+               </titleStmt>
+               <extent>[2], 6 p.   </extent>
+               <publicationStmt>
+                  <publisher>First printed at Edinburgh, and now reprinted at London for Edward Brewster, and are to be sold on Fleet-bridge,</publisher>
+                  <pubPlace>[London] :</pubPlace>
+                  <date>1643.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Originally published: Edinburgh : Evan Tyler, 1643.</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Church of Scotland. --  General Assembly --  Early works to 1800.</term>
+               <term>Church of Scotland --  History, (17th century) --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-12</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-01</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-03</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2010-03</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2010-04</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:155335:1" rendition="simple:additions"/>
+            <!-- PDF PAGE 81 -->
+            <p>A LETTER FROM THE SYNOD OF ZELAND, TO THE COMMISSIONERS OF The Generall Aſſembly of the Kirk of SCOTLAND: Written by them in Latin, and now faith<g ref="char:EOLhyphen"/>fully tranſlated into Engliſh: <hi>EXPRESSING,</hi>
+               <list>
+                  <item>1. Their fellow-feeling of the preſent condition of the Kirks of <hi>Ireland</hi> and <hi>England,</hi> and exciting us to the like.</item>
+                  <item>2. Their reſpects and affection to the Kirk of <hi>Scotland.</hi>
+                  </item>
+                  <item>3. Their zeale to the Reformation of the Kirk of <hi>England,</hi> in Go<g ref="char:EOLhyphen"/>vernment and Ceremonies, and to the preſervation of Religion there, Againſt the pride of Popery at this time.</item>
+                  <item>4. And their deſire of Unity in Religion, and Uniformity of Kirk-government in his Majeſties Dominions.</item>
+               </list>
+            </p>
+            <q>
+               <p>Pray for the peace of Jeruſalem: they ſhal proſper that love thee,</p>
+               <bibl>Pſ. 122.6.</bibl>
+            </q>
+            <p>
+               <floatingText xml:lang="eng">
+                  <body>
+                     <div type="imprimatur">
+                        <opener>
+                           <dateline>
+                              <date>July 18. 1643.</date>
+                           </dateline>
+                        </opener>
+                        <p>Imprimatur.</p>
+                        <closer>
+                           <signed>JOHN WHITE.</signed>
+                        </closer>
+                     </div>
+                  </body>
+               </floatingText>
+            </p>
+            <p>Firſt Printed at <hi>Edinburgh,</hi> and now reprinted at <hi>London</hi> for <hi>Edward Brewſter,</hi> and are to be ſold on Fleet-bridge. 1643.</p>
+         </div>
+      </front>
+      <body>
+         <div type="letter">
+            <pb facs="tcp:155335:2"/>
+            <!-- PDF PAGE 82 -->
+            <pb n="1" facs="tcp:155335:2"/>
+            <!-- PDF PAGE 82 -->
+            <opener>
+               <salute>Right reverend, learned, and much honoured,</salute>
+            </opener>
+            <p>
+               <seg rend="decorInit">T</seg>He anxiety and ſorrow, ariſing from the lamentable condition of the Kirk in Ireland, and troubled Eſtate of the Kirk in England, doth ſo vex and torment us, and the extream danger to which they are brought is ſo great, and our deſire of their delivery ſo vehement, that if we would, yet we cannot ſufficiently expreſſe the ſame.</p>
+            <p>We acknowledge, that for our ſins the Kirks are afflicted with theſe great miſeries, foraſmuch as in this ſo great light of the Goſpel, Pride, Covetouſneſſe, Ambition, Drunkenneſſe, Wantonneſſe, filthy Luſts, and ſuch like peſtilent evils, do no leſſe abundantly ſpring up among us, then when we ſate in the darkneſſe of Paganiſme and Po<g ref="char:EOLhyphen"/>pery: wherefore that which is written hath befallen us: <hi>I have for<g ref="char:EOLhyphen"/>ſaken mine houſe, I have left mine heritage, I have given the dearly be<g ref="char:EOLhyphen"/>loved of my Soul into the hand of her enemies:</hi> with what meaſure we have mete out unto the Lord, with the ſame he is againe meaſuring unto us.</p>
+            <p>We heare from all quarters, of the boaſting and pride of <hi>Moab;</hi> of the loftineſſe and arrogancy of his heart; that skipping for joy, he glorieth, that now the fatall day is come, and the faireſt occaſion that ever was, is now offered to cut off ſuch as they do hate with deadly hatred, and with one ſtroke to overthrow the reformed Kirks, and to root them out together, that they be no more. And verily, if wee looked only to the arme of fleſh, we might conceive this their inſo<g ref="char:EOLhyphen"/>lent boaſting not to be without cauſe; for if they be able to prevaile over the Kirks of the flouriſhing and potent Kingdom of England, they are hopefull without difficulty to overturn the Kirks of Scot<g ref="char:EOLhyphen"/>land, as alſo to bring eaſily the reformed Kirks of the Netherland<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> to the ſame deſolation; and that there is no reformed Kirk in Europe which ſhall be able to withſtand their formidable power: yea, they ſhall with open throat ſwallow them all up as a morſell of bread, feeding themſelves upon theſe hopes, with great courage, extream endeavours, and united forces, they addreſſe themſelves to this work. So muſt alſo the reformed Kirks do, they muſt joyne their Counſels, courage, and ſtrength, that they may make the preſent pernicious
+<pb n="2" facs="tcp:155335:3"/>
+               <!-- PDF PAGE 83 -->blow aimed at them, return upon the heads of the enemies; if herein they bee deficient, ſuch ſhamefull cowardiſe will be inexcuſable to all poſterity.</p>
+            <p>And whereas (much honoured) we uſe this compellation by our Letters, we earneſtly entreat you, that ye take not this our dealing in ill part, as if we took upon us to waken you out of a deep ſleep (farre bee ſuch arrogancy and raſhneſſe from us) there are extant to the world moſt evident teſtimonies of your zeal for the reformed Reli<g ref="char:EOLhyphen"/>gion. But the true cauſe of ſaluting you by theſe our Letters, is, that we may approve by our ſuffrage your diligence and zeal, and that wee may poure out into your boſomes the fear of the dolefull event wherewith wee are perplexed. And that we may declare our deſire and affection towards the Kirks of England, with which the Kirks within our bounds are ſo united, that we judge if the Kirks of Eng<g ref="char:EOLhyphen"/>land periſh, they cannot eſcape ruine. Pardon therefore our freedom, in that we make bold thus to trouble you with our Letters, if it may be called trouble.</p>
+            <p>We entreat your wiſdomes, foraſmuch as ye are joyned to theſe afflicted Kirks in neighbourhood, and neareſt bonds under the go<g ref="char:EOLhyphen"/>vernment of one King, who is reſolved to live and die in the reformed Religion, as in his publick Declarations plainly he hath profeſſed, that with all carefull endeavours ye aid them againſt the rage and fury of the factious and malignant.</p>
+            <p>And firſt, ſeeing the deplorable diviſion between the Kings moſt Excellent Majeſty and his Parliament, is exceeding perillous and hurtfull to the Kirks of that Kingdome, that yee leave nothing un<g ref="char:EOLhyphen"/>eſſayed for healing of that rent, by prayer, ſupplications, interceſ<g ref="char:EOLhyphen"/>ſions, and all other lawfull meanes.</p>
+            <p>Secondly, let it never come to paſſe, that theſe Kirks, deſerted by you, become a prey to Popiſh Forces, and be wofully torne by them. O how much blood would be ſpilt! The times of Queen <hi>Mary</hi> would returne, yea much more cruell then theſe: no cruelty that ſa<g ref="char:EOLhyphen"/>vages could deviſe would be omitted, no ſex would be ſpared: keep not therefore your ſelves quiet in this difficil time, as if from a high rock ye were beholding ſecurely a tempeſt and preſent ſhipwrack: Far, far be ſuch a minde from you, as it is indeed; not like to <hi>Meroz</hi> whom the Angel of the Lord accurſed: <hi>Therefore make haſte to help the Lord, to help the Lord againſt the mighty.</hi> So ſhall ye oblige all the reformed Kirks of Europe unto you.</p>
+            <p>
+               <pb n="3" facs="tcp:155335:3"/>
+               <!-- PDF PAGE 83 -->
+Thirdly, ſo far as in you lieth give all diligence, that the foreſaid Kirks, now freed of the Epiſcopall yoke, and purged from all the rites and dregs of Antichriſt, be not drawn back to the ſame bondage, nei<g ref="char:EOLhyphen"/>ther by fraud nor force. The Lord of his infinite goodneſſe hath be<g ref="char:EOLhyphen"/>ſtowed this favour on you, and hath put it in the heart of the Kings moſt excellent Majeſty, that he will not have your necks preſſed any longer with the yoke, or rather intolerable tyranny of Epiſcopall government, (we heartily congratulate with you in this your hap<g ref="char:EOLhyphen"/>pineſſe.) But withall it is our deſire, that ye lay your accompt, that if the neighbouring Kirks bee drawn back to that yoke of bondage, (which God of his mercy avert) your liberty will not be long ſure: for the enemies of the truth being ſtrengthened by a new addition of forces, and encreaſe of power, they will unceſſantly purſue you, that at laſt ye will yeeld, and of your own accord take on that iron yoke, which, though by a ſlow, yet by a ſure pace, leadeth to utter deſtruction.</p>
+            <p>Ye ought therefore to ſtrengthen and ſupport the Kirks of Eng<g ref="char:EOLhyphen"/>land by your whole power, and to exhort them, that they come never again under that tyrannicall yoke; but rather that they may ſtand couragiouſly for the maintenance of their liberty (yet ſo, that they fall not on the other extream, Anarchy, a more dangerous evill) yea, that they have not the leaſt fellowſhip with any idolatrous rites or ceremonies. The Chriſtian tabernacle no leſſe then the Jewiſh ought to bee built according to that pattern ſhewed in the Mount of the Scripture, ſo that there be not in the curtaines thereof ſo much as a loop or a tach, but according to the preſcript of God the only Law-giver.</p>
+            <p>Long experience hath taught us, that there is in ſuch rites a ſecret and wonderfull power to defile, if but the ſmalleſt part thereof be ad<g ref="char:EOLhyphen"/>mitted, it will not long continue ſo, but ſpeedily, like a gangrene, it will begin to ſpread, whilſt at <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>aſt it corrupt the whole worſhip, ha<g ref="char:EOLhyphen"/>ving loſt the ſimplicity and purity of Chriſts inſtitution. What? were ſhe not a fooliſh and mad woman, who would adorne her ſelfe with ornaments borrowed from ſome vile harlot, ſuppoſing thereby the better to pleaſe her husband? What filthier harlot is there then the Romiſh ſtrumpet, moſt accompliſhed in all ſorts of ſpirituall villanies, ſurpaſſing all the bounds of impudency? Let us never therefore be ſo demented, as to accompt the worſhip of God, moſt pure by Chriſts inſtitution, to be more pleaſing unto God, when it is performed with
+<pb n="2" facs="tcp:155335:4"/>
+               <!-- PDF PAGE 84 -->
+               <gap reason="duplicate" extent="1 page">
+                  <desc>〈1 page duplicate〉</desc>
+               </gap>
+               <pb n="3" facs="tcp:155335:4"/>
+               <!-- PDF PAGE 84 -->
+               <gap reason="duplicate" extent="1 page">
+                  <desc>〈1 page duplicate〉</desc>
+               </gap>
+               <pb n="4" facs="tcp:155335:5"/>
+               <!-- PDF PAGE 85 -->ornaments borrowed from the Romiſh Bordell. Let us think that the Lord cannot but be highly offended, take away his holy Spirit, and depart far with the light of his grace, ſo ſoon as men begin to bee ſo mad; then hee ſuffereth them from day to day to ſink deeper in the dunghill of ſuperſtitious rites, wherein they delight, while at laſt they be ſuffocated therein as it came to paſſe in the Papacy.</p>
+            <p>We confeſſe indeed, that for things indifferent we like not to bee contentious, neither left we the Romiſh Kirk for theſe or ſuch like things; but for the denying of that only ſacrifice of Chriſt in their Maſſe; for their adoration of a breaden god and of Saints, for their ex<g ref="char:EOLhyphen"/>alting the Pope above God, and for his tyranny; for their contempt &amp; prohibition of the uſe of Scripture; for juſtification by works, and hun<g ref="char:EOLhyphen"/>dreds more of that kinde. If the Romiſh Kirk had been tainted only with ſome ſmaller blemiſhes, or had been defiled only with ſome indif<g ref="char:EOLhyphen"/>ferent rites; if for theſe we had departed from her we might have been juſtly taxed as Sciſmaticks, yea, a generation of vipers, which burſting through the mothers bowels, is not brought forth but by particide.</p>
+            <p>But firſt having once departed for their accurſed idolatry, and the Kirk being purged, to returne back againe unto Popiſh rites, once caſt out, appeareth evidently to be extream dangerous, by reaſon of the ſubtilty and reſtleſneſſe of Sathan.</p>
+            <p n="2">2. Whoſoever ceaſeth not eagerly to preſſe and to introduce theſe rites, though they perceive all things to be turned up ſide down ther<g ref="char:EOLhyphen"/>by, they make manifeſt, that it is not for theſe ceremonies alone they ſtir up ſuch troubles, but that they do ſecretly project ſome other thing</p>
+            <p n="3">3. As for ſuch ceremonies and rites as have their origin all from minds arrogant, and not contented with divine inſtitution, &amp; to which an opinion of neceſſity is added, as if without theſe, holy things could not be decently gone about, and the worſhip but coldly performed; truely we cannot ſee how ſuch ceremonies can be called indifferent.</p>
+            <p>Suffer never therefore (much honoured brethren) ſo farre as is in you, that the Engliſh Kirks be forced to receive ſuch ceremonies; but rather uſe all meanes that they and yee in Kirk-government may be brought to as near agreement as may be. Hence ſhall redound mani<g ref="char:EOLhyphen"/>fold and great utilitie.
+<list>
+                  <item>1 The pure manner of worſhip being preſer<g ref="char:EOLhyphen"/>ved, the ineſtimable treaſure of the purity of doctrine, which is com<g ref="char:EOLhyphen"/>mitted to us, ſhall be the better kept, and tranſmitted uncorrupt to Poſterity.</item>
+                  <item>2 If the Kirk be purged from all Popiſh leaven, ſhe will be the more comely in the eyes of her bridegroome, and will obtain
+<pb n="5" facs="tcp:155335:5"/>
+                     <!-- PDF PAGE 85 -->the larger ſhowre of bleſſings; and, as a field purged of tares, ſhall be the more fruitfull.</item>
+                  <item>3. This will exceedingly ſettle the Eſtate of your Kirks againſt the continuall Plots and Conſpiracies of Papiſts; united Forces are ſtrongeſt. The purity of worſhip being eſtabliſhed, your Kirks ſhal grow up together with the Engliſh in a more ſollid and durable concord.</item>
+                  <item>4 This will cut ſhort the Popiſh Emiſſaries of all hope of comming ſpeed by their crafty wiles. They perceive that the reformed Kirks doe extreamly abhorre their Idolatry: therefore they deſpaire to introduce the ſame wholly and together: but they eſſay to creep in by degrees. They labour to perſwade, that there is no danger, if with the ſinging of Pſalmes, Organs be joyned as a part of Divine worſhip: if for the ſimple and ordinary habit of Miniſters the Surpliſe bee uſed: if with the Lords day, there be celebrated alſo Fe<g ref="char:EOLhyphen"/>ſtivall dayes in memory of the Martyrs: If theſe things ſhall proſper in their hands; then in place of a Table, yee ſhall have an Altar; for ſitting at Communion, kneeling: and if they have ſucceſſe herein, then ſhall yee have Images, and the whole mask of Popery: with this hope they uphold themſelves, and of this hope they are to be cut ſhort.</item>
+                  <item>5 This alſo ſhall conſtrain ſuch of ours who are buſied about Recon<g ref="char:EOLhyphen"/>c<gap reason="illegible" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>liation that is to ſay, who labour to make up a Communion between day and night, darkneſſe and light, to relinquiſh their fooliſh undertaking.</item>
+               </list>
+            </p>
+            <p>And let not that move you which is pretended; that ſuch cere<g ref="char:EOLhyphen"/>monies as kneeling in the holy Supper, conduceth much to ſtir up piety, and to avoid contempt: that forewarning of the Apoſtle hath taken deep impreſſion in our hearts, <hi>That ſuch things have a ſhew of wiſedome in will-worſhip and humility:</hi> but in effect are of no worth. Such things have the appearance of wiſedome, but not the reality thereof. What? came not ſuch a thought into our Saviours minde? Why then ſate hee after the ordinary cuſtome of the countrey? Why enjoyned he not kneeling? Next, what if ſome other ſhould appoint for greater humility and ſubmiſſion of minde, that wee ſhould come with ſack-cloth and aſhes to the holy Supper? Yea, if another ſhould appoint, that wee ought to come with ropes about our necks, that by this ſigne they might openly declare their extreame unworthineſſe, and that they had deſerved death, as the ſervants of <hi>Benhaded</hi> came unto the King of Iſrael? And in end, what ſhall bee the end, if this doore ſhall once be opened? therefore wee muſt not paſſe from the Primitive worſhip.</p>
+            <pb n="4" facs="tcp:155335:6"/>
+            <!-- PDF PAGE 86 -->
+            <gap reason="duplicate" extent="1 page">
+               <desc>〈1 page duplicate〉</desc>
+            </gap>
+            <pb n="5" facs="tcp:155335:6"/>
+            <!-- PDF PAGE 86 -->
+            <gap reason="duplicate" extent="1 page">
+               <desc>〈1 page duplicate〉</desc>
+            </gap>
+            <p>
+               <pb n="6" facs="tcp:155335:7"/>
+               <!-- PDF PAGE 87 -->
+But wherefore then, may ſome ſay, doe your ſelves paſſe from the Primitive way? Why ſtand they in the French Kirks at the Lords Supper? Why ſit yee in the Netherlands? And why doe yee not leane every where? The reformed Kirks have their anſwer ready: When we come to eat and drink at Table, it is all one, whether ac<g ref="char:EOLhyphen"/>cording to the cuſtome of our countrey, we leane, ſit, or ſtand; in none of theſe geſtures is Religious worſhip placed: but to receive meat kneeling, is no where uſuall.</p>
+            <p>But that jugling enemie, who can transforme himſelfe into a thou<g ref="char:EOLhyphen"/>ſand ſhapes, after he hath brought in kneeling, can remove a Table: for what hath kneeling to doe with a Table? And having once remo<g ref="char:EOLhyphen"/>ved a Table, can eaſily bring in an Altar: and then at laſt perſwade to offer there a ſacrifice for the living, and for the dead.</p>
+            <p>Neither need yee (Right reverend) to bee afraid of them, who by their vile lies and calumnies labour to ſtirre up againſt you the hatred of your moſt excellent King, as if ye were enemies to His Honour, and Royall Highneſſe, or envied His greater Honour and Glory: For the King out of His deep Wiſdome knoweth, that Hee hath not any more loyall Subjects, then theſe who are devoted to the reformed Religion: Hee knoweth that there is nothing can eſtabliſh more His Throne, that can enlarge His Royall Honour and Magnificence more, or can better preſerve His Royall Perſon, then if with His whole Power He defend the reformed Religion, againſt all the adver<g ref="char:EOLhyphen"/>ſaries thereof: For the Kings moſt excellent Majeſty knoweth, that ſuch flatterers carry the ſhew of good-will, but in effect are the moſt deadly enemies of His Honour. Let not therefore ſuch vaine ſhadows of feare ſcare you, but goe on conſtantly, and couragiouſly in help<g ref="char:EOLhyphen"/>ing the afflicted Kirks. God ſhall abundantly bleſſe your endevours, and ſhall grant unto you that the whole Antichriſtian crew, in vaine ſhewing their teeth, and oppoſing you, yee having obtained your de<g ref="char:EOLhyphen"/>ſires, ſhall have large matter of giving thanks to his divine Majeſty.</p>
+            <p>As for us, both in publike and private, in all the reformed Kirks throughout the Netherlands, wee poure forth our earneſt deſires to God, that at laſt he would pitie his afflicted Kirks, would calme their horrible tempeſts, and make them flouriſh in truth, piety and peace, would remove all the impediments that hinder ſo great happineſſe.</p>
+            <p>Farewell, right reverend and dearly beloved Brethren, and inter<g ref="char:EOLhyphen"/>pret to the better part this our brotherly dealing, as flowing from our good affection.</p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
